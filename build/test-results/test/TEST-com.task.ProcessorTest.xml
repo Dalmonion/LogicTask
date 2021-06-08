@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.task.ProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-08T03:02:51" hostname="DESKTOP-LQVCQEI" time="0.06">
+  <properties/>
+  <testcase name="testCaseOne()" classname="com.task.ProcessorTest" time="0.06"/>
+  <system-out><![CDATA[{[O], 2} = 0.04 (1/23)
+{[O], 4} = 0.04 (1/23)
+{[I], 1} = 0.04 (1/23)
+{[I], 2} = 0.04 (1/23)
+{[L, O], 4} = 0.09 (2/23)
+{[L], 5} = 0.13 (3/23)
+{[L, O, G], 6} = 0.17 (4/23)
+{[L, O, G, I], 5} = 0.22 (5/23)
+{[L, O, G, I, C], 5} = 0.22 (5/23)
+Total Frequency: 0.51 (23/45)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

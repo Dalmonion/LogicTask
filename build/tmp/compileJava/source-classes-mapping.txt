@@ -1,0 +1,12 @@
+com/task/FrequencyElement.java
+ com.task.FrequencyElement
+com/task/TotalFrequencyResults.java
+ com.task.TotalFrequencyResults
+com/task/CycleSummary.java
+ com.task.CycleSummary
+com/task/IOService.java
+ com.task.IOService
+com/task/Processor.java
+ com.task.Processor
+com/task/Application.java
+ com.task.Application
